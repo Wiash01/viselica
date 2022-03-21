@@ -1,0 +1,4 @@
+﻿  ConsoleApplication18.cpp
+D:\Program Files (x86)\VISUAL STUDIO\Projects\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Program Files (x86)\VISUAL STUDIO\Projects\ConsoleApplication18\ConsoleApplication18\ConsoleApplication18.cpp(78,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication18.vcxproj -> D:\Program Files (x86)\VISUAL STUDIO\Projects\ConsoleApplication18\x64\Debug\ConsoleApplication18.exe
